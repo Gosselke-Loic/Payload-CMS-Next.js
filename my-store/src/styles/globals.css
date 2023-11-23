@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.calcNavbar {
+    height: calc(100vh - 6.5rem);
+}
+
+.marginTopForDivise {
+    margin-top: 0.4rem;
+}
+.marginTopForStock {
+    margin-top: 0.25rem;
+}
